@@ -1,0 +1,48 @@
+[
+  {
+    "id": "9059134188",
+    "type": "PushEvent",
+    "actor": {
+      "id": 4495809,
+      "login": "andreasmartin",
+      "display_login": "andreasmartin",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/andreasmartin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4495809?"
+    },
+    "repo": {
+      "id": 170378638,
+      "name": "DigiBP/digibp-camunda-classroom",
+      "url": "https://api.github.com/repos/DigiBP/digibp-camunda-classroom"
+    },
+    "payload": {
+      "push_id": 3301904694,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/master",
+      "head": "2819d17bb94f437b987930a1793a800c1abb6439",
+      "before": "043856f05a9e20fe7e8b004b90e219313323c06c",
+      "commits": [
+        {
+          "sha": "2819d17bb94f437b987930a1793a800c1abb6439",
+          "author": {
+            "email": "andreas.martin@andreasmartin.ch",
+            "name": "Andreas Martin"
+          },
+          "message": "Update",
+          "distinct": true,
+          "url": "https://api.github.com/repos/DigiBP/digibp-camunda-classroom/commits/2819d17bb94f437b987930a1793a800c1abb6439"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2019-02-13T10:42:08Z",
+    "org": {
+      "id": 25099178,
+      "login": "DigiBP",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/DigiBP",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25099178?"
+    }
+  }
+]
